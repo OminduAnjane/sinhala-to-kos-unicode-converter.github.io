@@ -1,0 +1,24 @@
+{
+  "name": "sinhala-to-kos-unicode-converter",
+  "version": "1.0.0",
+  "description": "sinhala-to-kos-unicode-converter Coded By Omindu Anjana (siskoni)",
+  "main": "kos.html",
+  "scripts": {
+    "test": "kos.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinhala-to-kos-unicode-converter/sinhala-to-kos-unicode-converter.github.io.git"
+  },
+  "keywords": [
+    "kos",
+    "to",
+    "sinhala"
+  ],
+  "author": "Omindu Anjana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinhala-to-kos-unicode-converter/sinhala-to-kos-unicode-converter.github.io/issues"
+  },
+  "homepage": "https://github.com/sinhala-to-kos-unicode-converter/sinhala-to-kos-unicode-converter.github.io#readme"
+}
